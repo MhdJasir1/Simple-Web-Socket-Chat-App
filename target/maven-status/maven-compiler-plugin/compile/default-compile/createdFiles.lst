@@ -1,0 +1,5 @@
+com\ntz\websocket\config\WebSocketConfig.class
+com\ntz\websocket\ServletInitializer.class
+com\ntz\websocket\WebSocketApplication.class
+com\ntz\websocket\dto\Message.class
+com\ntz\websocket\controller\WebSocketController.class
