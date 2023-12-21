@@ -1,5 +1,6 @@
-C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\controller\WebSocketController.java
+C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\config\WebSocketEventListener.java
+C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\chat\ChatController.java
 C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\config\WebSocketConfig.java
-C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\dto\Message.java
+C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\chat\ChatMessage.java
 C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\WebSocketApplication.java
-C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\ServletInitializer.java
+C:\Users\mhdja\IdeaProjects\SpringBoot\WebSocket\WebSocket\src\main\java\com\ntz\websocket\chat\MessageType.java
